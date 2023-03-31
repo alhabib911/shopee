@@ -11,7 +11,7 @@ const Navbar = () => {
                         <li>Seller Center</li>
                         <li>Start Selling</li>
                         <li>Download</li>
-                        <li>Follow Us</li>
+                        <li>Follow Us by facebook</li>
                     </ul>
                 </div>
                 <div>
